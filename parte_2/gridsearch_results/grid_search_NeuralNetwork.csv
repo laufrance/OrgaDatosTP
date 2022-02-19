@@ -1,0 +1,2 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_activation,param_dropout_rate,param_neurons,param_optimizer,param_regularizer_lr,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+14.991399049758911,4.817469532812208,2.2538628578186035,0.3074478169360251,relu,0.25,128,Adam,0.001,"{'activation': 'relu', 'dropout_rate': 0.25, 'neurons': 128, 'optimizer': 'Adam', 'regularizer_lr': 0.001}",0.8328763759872325,0.8345541596759013,0.8345541596759013,0.833994898446345,0.0007909148157479143,1
